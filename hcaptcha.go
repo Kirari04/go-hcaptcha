@@ -1,4 +1,4 @@
-// Package hcaptcha handles hCaptcha (http://www.google.com/hcaptcha) form submissions
+// Package hcaptcha handles hCaptcha (http://hcaptcha.com) form submissions
 //
 // This package is designed to be called from within an HTTP server or web framework
 // which offers hCaptcha form inputs and requires them to be evaluated for correctness
